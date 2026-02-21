@@ -1,0 +1,3 @@
+[submodule "tenseur"]
+	path = tenseur
+	url = https://github.com/istmarc/tenseur
