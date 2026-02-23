@@ -28,5 +28,5 @@ cmake ../tenseur -DCMAKE_CXX_COMPILER=clang++
 
 ## Chained matrix multiplication
 
-![Chained gemm](chained_gemm.png)
+![Chained gemm](gemm_chained.png)
 
